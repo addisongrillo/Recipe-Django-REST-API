@@ -10,7 +10,7 @@ GET
 
 http://localhost:8000/recipes/
 
-###Search Recipes by user
+### Search Recipes by user
 
 Recipes can be searched for by username, User first name, and User Last Name
 
@@ -20,7 +20,7 @@ GET
 
 http://localhost:8000/recipes/?q={username}
 
-###Search Recipes by Recipe name
+### Search Recipes by Recipe name
 
 http://localhost:8000/recipes/?q={recipe name or part of recipe name}
 
