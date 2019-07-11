@@ -22,7 +22,7 @@ http://localhost:8000/recipes/?q={username}
 
 ### Search Recipes by Recipe name
 
-http://localhost:8000/recipes/?q={recipe name or part of recipe name}
+http://localhost:8000/recipes/?q={recipe-name-or-part-of-recipe-name}
 
 ### Get a Recipe by id
 
