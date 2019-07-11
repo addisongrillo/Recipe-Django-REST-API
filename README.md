@@ -102,7 +102,7 @@ http://localhost:8000/steps/{id}/
 
 GET
 
-http://localhost:8000/steps/{id}/
+http://localhost:8000/ingredients/{id}/
 
 ### Create an Ingredient
 
